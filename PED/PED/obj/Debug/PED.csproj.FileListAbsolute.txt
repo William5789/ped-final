@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.Properties.Resources.resources
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PED\PED\bin\Debug\PED.exe.config
+C:\Users\PC\source\repos\PED\PED\bin\Debug\PED.exe
+C:\Users\PC\source\repos\PED\PED\bin\Debug\PED.pdb
+C:\Users\PC\source\repos\PED\PED\bin\Debug\MACTrackBarLib.dll
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.csproj.Up2Date
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.exe
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.pdb
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.BooksForm.resources
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.LoansForm.resources
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.SISTEMA.resources
+C:\Users\PC\source\repos\PED\PED\obj\Debug\PED.UsersForm.resources
